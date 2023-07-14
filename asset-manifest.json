@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lamasocial/static/css/main.6fee23fb.css",
+    "main.js": "/Lamasocial/static/js/main.f88430eb.js",
+    "index.html": "/Lamasocial/index.html",
+    "main.6fee23fb.css.map": "/Lamasocial/static/css/main.6fee23fb.css.map",
+    "main.f88430eb.js.map": "/Lamasocial/static/js/main.f88430eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fee23fb.css",
+    "static/js/main.f88430eb.js"
+  ]
+}
